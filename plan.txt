@@ -1,0 +1,21 @@
+Jour 1: Analyse et Configuration (8 janvier)
+Passez en revue les exigences du projet en détail.
+Configurez votre projet sur GitHub.
+Choisissez les technologies que vous utiliserez.
+Créez la structure de base de votre application.
+Jour 2: Développement Local (9 janvier)
+Commencez le développement local en vous concentrant sur les fonctionnalités essentielles.
+Assurez-vous que les appels d'API fonctionnent correctement.
+Commencez à écrire le code pour la plateforme de visualisation.
+Jour 3: Docker et Tests Locaux (10 janvier)
+Configurez Docker pour votre application.
+Construisez et testez vos conteneurs localement.
+Intégrez les conteneurs dans votre environnement de développement.
+Jour 4: Tests Locaux et Finalisation (11 janvier)
+Continuez les tests locaux et assurez-vous que toutes les fonctionnalités sont opérationnelles.
+Effectuez les ajustements finaux en fonction des retours et des tests.
+Documentez le processus d'installation et de déploiement.
+Préparez la remise du projet.
+Jour 5: Réserve (12 janvier)
+Gardez une journée de réserve au cas où certains éléments prendraient plus de temps que prévu.
+Utilisez cette journée pour les retouches finales, l'optimisation, ou tout ajustement nécessaire.
